@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <title>Inspector</title>
+  <rect width="256" height="256" rx="56" fill="#126E67"/>
+  <circle cx="116" cy="116" r="65" stroke="#FFFFFF" stroke-width="18"/>
+  <path d="M98 83H134V99H125V139H134V155H98V139H107V99H98V83Z" fill="#FFFFFF"/>
+  <path d="M164 164L204 204" stroke="#F3AD77" stroke-width="22" stroke-linecap="round"/>
+</svg>
